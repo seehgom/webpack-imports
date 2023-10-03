@@ -131,3 +131,4 @@ dist
 /.idea/.gitignore
 /.idea/modules.xml
 /.idea/webpack-imports.iml
+/.idea/vcs.xml
